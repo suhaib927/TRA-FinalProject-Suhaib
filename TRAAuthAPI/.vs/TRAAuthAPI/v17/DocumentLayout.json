@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|c:\\users\\suhaib\\source\\repos\\traauthapi\\traauthapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|solutionrelative:traauthapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|c:\\users\\suhaib\\source\\repos\\traauthapi\\traauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|solutionrelative:traauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|c:\\users\\suhaib\\source\\repos\\traauthapi\\traauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|solutionrelative:traauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|c:\\users\\suhaib\\source\\repos\\traauthapi\\traauthapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623FCAF5-6A05-40F4-B274-134797911E49}|TRAAuthAPI\\TRAAuthAPI.csproj|solutionrelative:traauthapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TRAAuthAPI\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "TRAAuthAPI\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:45:37.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TRAAuthAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Models\\User.cs",
+              "RelativeToolTip": "TRAAuthAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:40:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TRAAuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\appsettings.json",
+              "RelativeToolTip": "TRAAuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T12:52:36.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TRAAuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\suhaib\\source\\repos\\TRAAuthAPI\\TRAAuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TRAAuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:48:22.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
